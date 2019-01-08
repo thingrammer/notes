@@ -60,3 +60,4 @@ data class Py(private val x: Int) : Pb {
 * listOf, mapOf, mutableListOf...
 
 #### integrated with spring boot 
+* Autowired variable need ***lateinit*** keyword
